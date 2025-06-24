@@ -7,3 +7,6 @@ For linux:
 Build the Docker Image
 - docker compose build
 - docker compose up
+
+Feutures:
+- Instead of api call using binance 1s websocket
